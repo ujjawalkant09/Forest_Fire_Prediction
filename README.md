@@ -1,1 +1,1 @@
-# Forest_Fire_Prediction
+# A machine learning model that predicts the possibility of fire taking place , deployed on webpage using streamlit library
